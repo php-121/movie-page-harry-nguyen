@@ -1,0 +1,26 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "nodemon": "^2.0.13"
+  },
+  "description": ".",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS341W/movie-lookup.git"
+  },
+  "author": "Harry Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CS341W/movie-lookup/issues"
+  },
+  "homepage": "https://github.com/CS341W/movie-lookup#readme"
+}
